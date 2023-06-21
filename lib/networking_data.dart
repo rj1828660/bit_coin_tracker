@@ -14,7 +14,7 @@ class ExchangeData {
     });
 
     final response = await http.get(url, headers: {
-      'X-RapidAPI-Key': '0d06092421msh3a19e4a040dc3ebp127c92jsn67ba100321e2',
+      'X-RapidAPI-Key': '0d06092421msh3a19e4a040dc3ebp1-your-api-key',
       'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
     });
 
